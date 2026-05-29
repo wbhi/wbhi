@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Abhirama Praneeth 👋
 
-<!--
-**wbhi/wbhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Student at VBIT
 
-Here are some ideas to get you started:
+I enjoy building projects with Python, Flask, Machine Learning, and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently:
+- Learning DSA
+- Building AI & ML projects
+- Exploring Full Stack Development
+
+## Connect
+
+LinkedIn:
+www.linkedin.com/in/abhirama-praneeth
+
+Email:
+abhiramapraneeth@gmail.com
